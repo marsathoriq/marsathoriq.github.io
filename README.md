@@ -7,11 +7,11 @@
 
 Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hobi mendengarkan musik, nonton youtube, dan juga berolahraga. Selain itu bidang yang saya minati ialah Data Science, Competitive Programming, dan Matematika.
 
-###Pengalaman
+### Pengalaman
 * **Koordinator Kelas Asisten, PTI Comlabs** 
-* **Competitive Programming, Arkavidia 5.0**
-* **Social Responsibility, HMIF**
-
+* **Anggota Divisi Competitive Programming, Arkavidia 5.0**
+* **Anggota Divisi Social Responsibility, HMIF ITB**
+* **Anggota Divisi Internal, Ukawangi ITB**
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
