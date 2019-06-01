@@ -1,12 +1,9 @@
 # Tentang Saya
 
-**Nama** : Marsa Thoriq Ahmada.
-
-**Alamat** : Depan SDN 1 Parijatah Wetan, Dusun Parirejo, Desa Parijatah Wetan, Kec. Srono, Kab. Banyuwangi.
-
-**No. Telepon** : (+62) 8953-5797-0009
-
-**Email** : marsathoriq@gmail.com
+- **Nama** : Marsa Thoriq Ahmada.
+- **Alamat** : Depan SDN 1 Parijatah Wetan, Dusun Parirejo, Desa Parijatah Wetan, Kec. Srono, Kab. Banyuwangi.
+- **No. Telepon** : (+62) 8953-5797-0009
+- **Email** : marsathoriq@gmail.com
 
 Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hobi mendengarkan musik, nonton youtube, dan juga berolahraga. Selain itu bidang yang saya minati ialah Data Science, Competitive Programming, dan Matematika.
 
