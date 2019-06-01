@@ -24,7 +24,7 @@ Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hob
 ### Data Science dan Sepak Bola
 
 
-![title](https://github.com/marsathoriq/marsathoriq.github.io/blob/master/Artikel.jpg)<br />
+![title](https://img.okezone.com/content/2019/05/10/261/2053869/kuasai-liga-champions-dan-eropa-kebangkitan-sepakbola-inggris-iCKtLeRrtd.JPG)<br />
 Sumber Gambar: https://bola.okezone.com/read/2019/05/10/261/2053869/kuasai-liga-champions-dan-eropa-kebangkitan-sepakbola-inggris
 
 
