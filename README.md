@@ -57,6 +57,6 @@ Syntax highlighted code block
 '''
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://github.com/marsathoriq/marsathoriq.github.io/blob/master/Artikel.jpg)
+<img src="Artikel.jpg" width="150" height="30" />
 
 
