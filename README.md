@@ -17,7 +17,13 @@ Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hob
 * **Finalis Junior Competitive Programming Competition Compfest UI 2016**
 * **Finalis National Programming Competition ITS 2016**
 * **Juara 2 Competitive Programming IIT Challenge HMIF ITB 2018** 
-* **Juara 3 Data Mining Joints UGM 2019 
+* **Juara 3 Data Mining Joints UGM 2019**
+
+### Artikel Saya
+
+## Judul Artikel
+
+tulisan...
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
