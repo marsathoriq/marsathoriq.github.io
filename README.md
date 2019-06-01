@@ -1,19 +1,14 @@
 # Tentang Saya
 **Nama** : Marsa Thoriq Ahmada
-
 **Alamat** : Depan SDN 1 Parijatah Wetan, Dusun Parirejo, Desa Parijatah Wetan, Kec. Srono, Kab. Banyuwangi
-
 **No. Telepon** : (+62) 8953-5797-0009
-
 **Email** : marsathoriq@gmail.com
 
 
 ### Pendidikan
 
 **2017 - Sekarang**
-
 **Institut Teknologi Bandung**
-
 **Jurusan Teknik Informatika**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
