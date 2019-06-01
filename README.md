@@ -5,13 +5,20 @@
 - **No. Telepon** : (+62) 8953-5797-0009
 - **Email** : marsathoriq@gmail.com
 
-Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hobi mendengarkan musik, nonton youtube, dan juga berolahraga. Selain itu bidang yang saya minati ialah Data Science, Competitive Programming, dan Matematika.
+Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hobi mendengarkan musik, nonton youtube, dan juga berolahraga. Selain itu bidang yang saya minati ialah Data Science,dan Competitive Programming. 
 
 ### Pengalaman
 * **Koordinator Kelas Asisten, PTI Comlabs** 
 * **Anggota Divisi Competitive Programming, Arkavidia 5.0**
 * **Anggota Divisi Social Responsibility, HMIF ITB**
 * **Anggota Divisi Internal, Ukawangi ITB**
+
+### Penghargaan
+* **Finalis Junior Competitive Programming Competition Compfest UI 2016**
+* **Finalis National Programming Competition ITS 2016**
+* **Juara 2 Competitive Programming IIT Challenge HMIF ITB 2018** 
+* **Juara 3 Data Mining Joints UGM 2019 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
