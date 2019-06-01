@@ -31,12 +31,9 @@ Dengan semakin majunya  data science dan semakin banyaknya data yang diperloleh 
 
 Sumber
 
-Chikio Hayashi , “Data Science, Classification, and Related Methods”
-
-https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8
-
-https://soccerlogic.com/
-
+Chikio Hayashi , “Data Science, Classification, and Related Methods”<br />
+https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8<br />
+https://soccerlogic.com/<br />
 https://www.sas.com/es_cl/customers/scisports.html
 
 
