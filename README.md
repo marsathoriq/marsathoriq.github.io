@@ -7,9 +7,9 @@
 
 ### Pendidikan
 
-**2017 - Sekarang**
-**Institut Teknologi Bandung**
-**Jurusan Teknik Informatika**
+**2017 - Sekarang
+Institut Teknologi Bandung
+Jurusan Teknik Informatika**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
