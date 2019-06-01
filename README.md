@@ -1,6 +1,6 @@
 # Tentang Saya
 
-**Nama** : Marsa Thoriq Ahmada
+**Nama** : Marsa Thoriq Ahmada.
 
 **Alamat** : Depan SDN 1 Parijatah Wetan, Dusun Parirejo, Desa Parijatah Wetan, Kec. Srono, Kab. Banyuwangi.
 
@@ -8,12 +8,12 @@
 
 **Email** : marsathoriq@gmail.com
 
+Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hobi mendengarkan musik, nonton youtube, dan juga berolahraga. Selain itu bidang yang saya minati ialah Data Science, Competitive Programming, dan Matematika.
 
-### Pendidikan
-
-**2017 - Sekarang
-Institut Teknologi Bandung
-Jurusan Teknik Informatika**
+###Pengalaman
+* **Koordinator Kelas Asisten, PTI Comlabs** 
+* **Competitive Programming, Arkavidia 5.0**
+* **Social Responsibility, HMIF**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
