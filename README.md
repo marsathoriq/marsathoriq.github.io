@@ -19,7 +19,7 @@ Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hob
 * **Juara 2 Competitive Programming IIT Challenge HMIF ITB 2018** 
 * **Juara 3 Data Mining Joints UGM 2019**
 
-## Artikel Saya
+# Artikel Saya
 
 ### Data Science dan Sepak Bola
 
