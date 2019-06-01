@@ -33,8 +33,7 @@ Sumber Gambar: https://bola.okezone.com/read/2019/05/10/261/2053869/kuasai-liga-
 
 <p>   Dengan semakin majunya  data science dan semakin banyaknya data yang diperloleh akan menjadikan penggunaan data science akan memiliki andil besar dalam suatu tim sepak bola. Pada zaman ini hampir setiap tim top eropa memiliki data scientist. Hal ini akan membuat permainan sepak bola semakin menarik untuk dicermati kedepannya. </p>
 
-Sumber
-
+Sumber<br />
 Chikio Hayashi , “Data Science, Classification, and Related Methods”<br />
 https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8<br />
 https://soccerlogic.com/<br />
