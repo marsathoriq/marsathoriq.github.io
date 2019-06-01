@@ -8,7 +8,7 @@
 Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hobi mendengarkan musik, nonton youtube, dan juga berolahraga. Selain itu bidang yang saya minati ialah Data Science,dan Competitive Programming. 
 
 ### Pengalaman
-* **Koordinator Kelas Asisten, PTI Comlabs** 
+* **Koordinator Kelas Asisten PTI, Comlabs** 
 * **Anggota Divisi Competitive Programming, Arkavidia 5.0**
 * **Anggota Divisi Social Responsibility, HMIF ITB**
 * **Anggota Divisi Internal, Ukawangi ITB**
