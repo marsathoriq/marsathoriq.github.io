@@ -54,9 +54,9 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+'''
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Image](https://github.com/marsathoriq/marsathoriq.github.io/blob/master/Artikel.jpg)
+
 
