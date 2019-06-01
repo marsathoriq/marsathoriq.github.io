@@ -24,7 +24,8 @@ Saya merupakan mahasiswa Teknik Informatika ITB angkatan 2017, Saya memiliki hob
 ### Data Science dan Sepak Bola
 
 
-![title](https://github.com/marsathoriq/marsathoriq.github.io/blob/master/Artikel.jpg)
+![title](https://github.com/marsathoriq/marsathoriq.github.io/blob/master/Artikel.jpg)<br />
+Sumber Gambar: https://bola.okezone.com/read/2019/05/10/261/2053869/kuasai-liga-champions-dan-eropa-kebangkitan-sepakbola-inggris
 
 
 Menurut Chikio Hayashi pengarang buku “Data Science, Classification, and Related Methods” data science sendiri adalah ilmu pengetahuan interdisiplin tentang metode komputasi untuk mendapatkan wawasan berharga yang dapat ditindaklanjuti dari kumpulan data yang mencakup tiga fase yaitu desain data, mengumpulkan data, dan analisis data. Di zaman teknologi yang berkembang pesat ini kata data science sudah tidak asing di telinga kita. Data science sudah mampu menjawab banyak permasalahan yang kompleks di berbagai bidang contohnya pada bisnis, sudah banyak perusahaan yang memiliki data scientist agar langkah strategi bisnis yang diambil perusuhaan tersebut tidak salah. Tetapi data science sekarang tidak hanya terbatas dengan hal hal yang berbau bisnis dan teknologi saja. Bahkan sekarang data science mampu menjawab permasalahan dibidang olahraga yaitu sepak bola.
