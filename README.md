@@ -1,8 +1,6 @@
 # Tentang Saya
-``` 
 **Nama** : Marsa Thoriq Ahmada
 
-```
 
 ### Markdown
 
