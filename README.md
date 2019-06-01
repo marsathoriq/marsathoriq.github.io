@@ -54,6 +54,6 @@ Syntax highlighted code block
 '''
 **Bold** and _Italic_ and `Code` text
 
-<img src="Artikel.jpg" width="150" height="30" />
+<img src="Artikel.jpg" width="150" height="30">
 
 
