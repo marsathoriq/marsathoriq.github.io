@@ -1,7 +1,11 @@
 # Tentang Saya
-**Nama** : Marsa Thoriq Ahmada \newline
-**Alamat** : Depan SDN 1 Parijatah Wetan, Dusun Parirejo, Desa Parijatah Wetan, Kec. Srono, Kab. Banyuwangi
+
+**Nama** : Marsa Thoriq Ahmada
+
+**Alamat** : Depan SDN 1 Parijatah Wetan, Dusun Parirejo, Desa Parijatah Wetan, Kec. Srono, Kab. Banyuwangi.
+
 **No. Telepon** : (+62) 8953-5797-0009
+
 **Email** : marsathoriq@gmail.com
 
 
